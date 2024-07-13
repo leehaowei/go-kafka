@@ -1,0 +1,15 @@
+# Git-related files
+.git
+.gitignore
+.github/
+bin/
+
+# OS
+.DS_Store
+
+# IDE and editor files
+.idea
+.vscode
+
+# Documentation and examples
+README.md 
